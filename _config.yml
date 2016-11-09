@@ -1,3 +1,4 @@
 name: Menlo Group
 source: .
 destination: ./_site
+timezone: America/New_York
